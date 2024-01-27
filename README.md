@@ -1,0 +1,2 @@
+# gen
+funimation account generator
